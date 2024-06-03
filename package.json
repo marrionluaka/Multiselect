@@ -1,7 +1,7 @@
 {
-  "name": "@mluaka/simple-npm-package",
-  "version": "2.0.3",
-  "description": "",
+  "name": "@mluaka/multiselect",
+  "version": "0.0.0",
+  "description": "A lightweight JavaScript utility for enabling multi-selection functionality.",
   "main": "dist/cjs/index.js",
   "module": "dist/mjs/index.js",
   "types": "dist/mjs/index.d.ts",
@@ -41,7 +41,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/marrionluaka/sample-npm-package.git"
+    "url": "https://github.com/marrionluaka/multiselect.git"
   },
   "publishConfig": {
     "access": "public"
