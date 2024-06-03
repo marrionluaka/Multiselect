@@ -1,0 +1,23 @@
+#!/bin/bash
+#
+#   Add package.json files to cjs/mjs subtrees
+
+# Create the dist/cjs and dist/mjs directories if they don't exist
+
+# Create the package.json files
+cat >dist/cjs/package.json <<!EOF
+{
+    "type": "commonjs"
+}
+!EOF
+
+cat >dist/mjs/package.json <<!EOF
+{
+    "type": "module"
+}
+!EOF
+
+# Copy .d.ts files
+find src -name '*.d.ts' -exec cp {} dist/mjs \;
+find src -name '*.d.ts' -exec cp {} dist/cjs \;
+
