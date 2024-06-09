@@ -15,3 +15,8 @@ A lightweight JavaScript utility for enabling multi-selection functionality.
 ```bash
 npm install @mluaka/multiselect
 ```
+
+## Examples
+
+### Using vanilla Js
+https://js-u74kpi.stackblitz.io
