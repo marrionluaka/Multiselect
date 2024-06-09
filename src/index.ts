@@ -42,7 +42,7 @@ export function selectAll<T>({
     return ids.slice(_index, _selectedIndex + 1);
   }
 
-  // select remaining indices
+  // select all remaining indices
   return selectedIds
     .slice(0, nonConsecutiveIndex)
     .concat(ids.slice(_selectedIndex, _index + 1));
