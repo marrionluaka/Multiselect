@@ -19,4 +19,4 @@ npm install @mluaka/multiselect
 ## Examples
 
 ### Using vanilla Js
-https://js-u74kpi.stackblitz.io
+[https://js-u74kpi.stackblitz.io](https://stackblitz.com/edit/js-u74kpi?file=index.js)
