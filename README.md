@@ -22,4 +22,4 @@ npm install @mluaka/multiselect
 [Vanilla Js](https://stackblitz.com/edit/js-u74kpi?file=index.js)
 
 ### Using VueJs
-[Vue Js](https://stackblitz.com/edit/vue3-vite-typescript-starter-gygvbe?file=src%2FApp.vue]
+[Vue Js](https://stackblitz.com/edit/vue3-vite-typescript-starter-gygvbe?file=src%2FApp.vue)
