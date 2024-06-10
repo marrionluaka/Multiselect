@@ -2,6 +2,8 @@
 
 A lightweight JavaScript utility for enabling multi-selection functionality.
 
+![](https://github.com/marrionluaka/multiselect/blob/master/multiselect.gif)
+
 ## Features
 
 - Simple API for managing multi-selection
