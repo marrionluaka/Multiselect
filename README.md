@@ -21,3 +21,4 @@ npm install @mluaka/multiselect
 - [Vanilla Js](https://stackblitz.com/edit/js-u74kpi?file=index.js)
 - [Vue Js](https://stackblitz.com/edit/vue3-vite-typescript-starter-gygvbe?file=src%2FApp.vue)
 - [React Js](https://stackblitz.com/edit/react-ts-xyrvxr?file=App.tsx)
+- [Svelte](https://stackblitz.com/edit/vitejs-vite-pp15ak?file=src%2FApp.svelte)
